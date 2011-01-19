@@ -355,10 +355,10 @@ scilab -l ja_JP
     <para>より多くのオプションが利用可能です.
 	これにより性能を改善したり,ルックアンドフィールを変更したり,
 	メモリ管理を変更したりといったことが可能です.
-	参照: <link
-    url="http://java.sun.com/javase/technologies/hotspot/vmoptions.jsp">http://java.sun.com/javase/technologies/hotspot/vmoptions.jsp</link>
-    or <link
-    url="http://blogs.sun.com/watt/resource/jvm-options-list.html">http://blogs.sun.com/watt/resource/jvm-options-list.html</link></para>
+	参照: <ulink
+    url="http://java.sun.com/javase/technologies/hotspot/vmoptions.jsp">http://java.sun.com/javase/technologies/hotspot/vmoptions.jsp</ulink>
+    or <ulink
+    url="http://blogs.sun.com/watt/resource/jvm-options-list.html">http://blogs.sun.com/watt/resource/jvm-options-list.html</ulink></para>
   </refsection>
 
   <refsection>
