@@ -17,7 +17,7 @@
   </refnamediv>
 
   <refsynopsisdiv>
-    <title>呼び出し手順Calling Sequence</title>
+    <title>呼び出し手順</title>
 
     <synopsis>pr = number_properties(prop)</synopsis>
   </refsynopsisdiv>
